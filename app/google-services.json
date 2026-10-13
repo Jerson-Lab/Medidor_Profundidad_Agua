@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1075726890259",
+    "firebase_url": "https://medidor-de-profundidad-default-rtdb.firebaseio.com",
+    "project_id": "medidor-de-profundidad",
+    "storage_bucket": "medidor-de-profundidad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075726890259:android:eee3621d5627027134d6e6",
+        "android_client_info": {
+          "package_name": "cl.ti3042.medidor_prof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJueTKPffVIQcEScJCdmcD7_9oWf8bB1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
